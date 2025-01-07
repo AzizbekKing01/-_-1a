@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    width: 1160px;
+    height: 833px;
+    border-radius: 40px;
+    background-color:  #343C56;
+    margin: 58px auto;
+}
+.menu{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 46px 0;
+}
+.element{
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    border-radius: 40px;
+    color: white;
+    margin: 41px auto;
+    border-radius: 30px;
+    text-align: center;
+    align-content: center;
+}
+.kartinka{
+    width: 400px;
+    height: 200px;
+}
+.media{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+    width: 264px;
+    height: 118px;
+    background-color: black;
+    border-radius: 40px;
+    color: white;
+    margin: 41px auto;
+    text-align: center;
+    align-content: center;
+}
